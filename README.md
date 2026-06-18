@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Will | Full-Stack & Backend Engineer
+# 👋 Hi, I'm Will | Backend & Systems Engineer
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ![Backend](https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge)
-![Full%20Stack](https://img.shields.io/badge/Full%20Stack-Developer-brightgreen?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Systems-Engineering-darkblue?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-Enthusiast-orange?style=for-the-badge)
 
 </div>
@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, and cloud-native applications. With experience across multiple tech stacks and a strong focus on systems design and DevOps practices.
+Passionate **Backend & Systems Engineer** with expertise in **Go, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, distributed systems, and cloud-native applications. With experience across multiple tech stacks and a strong focus on systems design, architecture, and DevOps practices.
 
-- 🎓 **ALX Software Engineer** | Completed comprehensive full-stack curriculum
+- 🎓 **ALX Software Engineer** | Completed comprehensive software engineering curriculum
 - 💼 Currently focusing on **Backend Development & Systems Design** 
 - 🤖 Interested in **AI Integration, Distributed Systems, and Open Source**
-- 📍 Nigeria-based developer passionate about community contribution
+- 📍 Nigeria-based software engineer passionate about community contribution
 - 🌱 Continuously learning and exploring new technologies
 
 ---
@@ -43,9 +43,9 @@ Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScri
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-005C87?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-Proficient-DC382D?style=flat-square&logo=redis)
 
-### **Frontend & Mobile**
+### **Frontend & Web**
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react)
-![React%20Native](https://img.shields.io/badge/React%20Native-Intermediate-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34C26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3)
 
@@ -60,11 +60,12 @@ Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScri
 
 ## ⭐ Featured Projects
 
-### **Recent & Active Projects** 🆕
+### **Latest & Active Projects** 🆕
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[3mtt-software-6-frontend](https://github.com/CrimsonKarma44/3mtt-software-6-frontend)** | 3mtt NextGen software engineering group 6 workspace - collaborative full-stack project | ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | 🚀 Active |
+| **[Stealth-Assist](https://github.com/CrimsonKarma44/stealth-assist)** | Browser plugin providing AI functionality while browsing webpages | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) | 🚀 Brand New |
+| **[3mtt-software-6-frontend](https://github.com/CrimsonKarma44/3mtt-software-6-frontend)** | 3mtt NextGen software engineering group 6 workspace - collaborative project | ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | 🚀 Active |
 | **[3mtt-software-6-backend](https://github.com/CrimsonKarma44/3mtt-software-6-backend)** | Backend API for 3mtt software engineering group 6 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | 🚀 Active |
 | **[BinGo](https://github.com/CrimsonKarma44/BinGo)** | A WasteBin on Wheels - innovative waste management solution | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | ✨ Recent |
 | **[ConfigForge](https://github.com/CrimsonKarma44/ConfigForge)** | Dynamic CLI tool for dev project configuration file generation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) | ✅ Complete |
@@ -80,11 +81,11 @@ Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScri
 | **[Broadcast Server](https://github.com/CrimsonKarma44/Broadcast-Server)** | Real-time message broadcasting system with CLI client connection | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
 | **[Caching Proxy](https://github.com/CrimsonKarma44/caching-proxy)** | Lightweight & efficient caching proxy server implementation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
 
-### **Full-Stack Projects**
+### **Systems & Architecture Projects**
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[AirBnB Clone Series](https://github.com/CrimsonKarma44?tab=repositories&q=AirBnB_clone&type=&language=&sort=)** | Progressive learning journey across 4 versions showcasing full-stack evolution | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
+| **[AirBnB Clone Series](https://github.com/CrimsonKarma44?tab=repositories&q=AirBnB_clone&type=&language=&sort=)** | Progressive learning journey across 4 versions showcasing full-stack architecture evolution | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
 | **[Eventify](https://github.com/CrimsonKarma44/Eventify)** | Web app for event activities including ticket acquisition and management | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) |
 | **[Blogging Platform API](https://github.com/CrimsonKarma44/Blogging-Platform-API)** | RESTful API for personal blogging platform with full features | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
 
@@ -128,15 +129,16 @@ I maintain comprehensive learning paths and open-source resources to help develo
 
 | **Area** | **Details** |
 |----------|-----------|
-| **Architecture** | REST APIs, Microservices, Clean Code, Systems Design |
-| **Backend** | Go (primary), Python, Node.js, Backend optimization |
-| **Databases** | SQL design, query optimization, backup systems, data integrity |
-| **Tools & CLI** | Building command-line applications, task automation, DevOps tools |
-| **DevOps** | GitHub Actions, CI/CD pipelines, deployment automation, infrastructure |
-| **Systems** | Networking, caching mechanisms, concurrency, data structures, algorithms |
-| **Full-Stack** | From frontend to deployment, complete application lifecycle |
-| **AI/ML** | Computer vision, voice control, AI integration in applications |
+| **Systems Architecture** | REST APIs, Microservices, Distributed Systems, Clean Architecture |
+| **Backend Engineering** | Go (primary), Python, Node.js, Backend optimization, API design |
+| **Databases** | SQL design, query optimization, backup systems, data integrity, scalability |
+| **DevOps & Infrastructure** | GitHub Actions, CI/CD pipelines, deployment automation, Docker |
+| **Systems Programming** | Networking, caching mechanisms, concurrency, performance optimization |
+| **Data Structures & Algorithms** | DSA design, algorithmic problem-solving, optimization |
+| **Cloud & Scalability** | Cloud-native applications, scalable architecture design |
+| **AI/ML Integration** | Computer vision, voice control, AI integration in systems |
 | **Blockchain** | Web3, Solana ecosystem, smart contracts exploration |
+| **Browser Extensions** | Chrome/Firefox plugins, web APIs, user-facing tooling |
 
 ---
 
@@ -155,10 +157,12 @@ I maintain comprehensive learning paths and open-source resources to help develo
 ## 🤝 Open to Collaboration
 
 - 💬 **Backend Development** projects in Go/Python
+- 🏗️ **Systems Design** and architecture consulting
 - 🔧 **DevOps & Infrastructure** automation
 - 📚 **Open Source** contributions and community support
 - 🎓 **Mentoring** - Helping junior developers learn and grow
 - 🚀 **Innovative Projects** - AI, Web3, systems programming
+- 🧩 **Browser Extensions & Tooling** - Building developer-friendly tools
 
 ---
 
@@ -182,7 +186,8 @@ I maintain comprehensive learning paths and open-source resources to help develo
 - 🌍 Contributing to impactful open-source projects
 - ☁️ Building scalable cloud-native applications
 - 🔗 Expanding blockchain and Web3 knowledge
-- 💡 Full-stack development with modern frameworks
+- 💡 Backend-focused development with modern frameworks
+- 🧠 AI-powered browser extensions and tooling
 
 ---
 
@@ -208,6 +213,6 @@ I maintain comprehensive learning paths and open-source resources to help develo
 
 Always learning, always building. Let's create something amazing together! 🚀
 
-**[⬆ Back to Top](#-hi-im-will--full-stack--backend-engineer)**
+**[⬆ Back to Top](#-hi-im-will--backend--systems-engineer)**
 
 </div>
