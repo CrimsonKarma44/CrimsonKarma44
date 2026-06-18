@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, and cloud-native applications. With experience across infrastructure automation, database optimization, and AI-driven solutions, I create production-ready code that solves real-world problems.
+Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, and cloud-native applications. With experience across multiple tech stacks and a strong focus on systems design and DevOps practices.
 
 - 🎓 **ALX Software Engineer** | Completed comprehensive full-stack curriculum
 - 💼 Currently focusing on **Backend Development & Systems Design** 
@@ -60,34 +60,42 @@ Passionate **Full-Stack Developer** with expertise in **Go, Python, and JavaScri
 
 ## ⭐ Featured Projects
 
+### **Recent & Active Projects** 🆕
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **[3mtt-software-6-frontend](https://github.com/CrimsonKarma44/3mtt-software-6-frontend)** | 3mtt NextGen software engineering group 6 workspace - collaborative full-stack project | ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | 🚀 Active |
+| **[3mtt-software-6-backend](https://github.com/CrimsonKarma44/3mtt-software-6-backend)** | Backend API for 3mtt software engineering group 6 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | 🚀 Active |
+| **[BinGo](https://github.com/CrimsonKarma44/BinGo)** | A WasteBin on Wheels - innovative waste management solution | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | ✨ Recent |
+| **[ConfigForge](https://github.com/CrimsonKarma44/ConfigForge)** | Dynamic CLI tool for dev project configuration file generation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) | ✅ Complete |
+
 ### **Core Backend Projects**
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[ConfigForge](https://github.com/CrimsonKarma44/ConfigForge)** | Dynamic CLI tool for dev project configuration file generation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-Tool-blue?style=flat) |
-| **[IPS - Image Processing Service](https://github.com/CrimsonKarma44/IPS)** | Production-ready backend with JWT auth, RESTful API design & optimized processing | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-green?style=flat) ![JWT](https://img.shields.io/badge/JWT-Auth-blue?style=flat) |
-| **[Database Backup Utility](https://github.com/CrimsonKarma44/Database-Backup-Utility)** | Comprehensive backup & restore solution supporting multiple databases | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Database](https://img.shields.io/badge/Database-Ops-orange?style=flat) |
-| **[Movie Reservation System](https://github.com/CrimsonKarma44/Movie-Reservation-System)** | Full-featured backend API for ticket booking and reservation management | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-green?style=flat) |
-| **[Markdown Note APP](https://github.com/CrimsonKarma44/Markdown-Note-APP)** | Lightweight note-taking application with markdown support | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Productivity](https://img.shields.io/badge/Productivity-App-yellow?style=flat) |
-| **[Broadcast Server](https://github.com/CrimsonKarma44/Broadcast-Server)** | Real-time message broadcasting system with CLI client connection | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-Systems-blue?style=flat) |
-| **[Caching Proxy](https://github.com/CrimsonKarma44/caching-proxy)** | Lightweight & efficient caching proxy server implementation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Performance](https://img.shields.io/badge/Performance-Optimization-green?style=flat) |
+| **[IPS - Image Processing Service](https://github.com/CrimsonKarma44/IPS)** | Production-ready backend with JWT auth, RESTful API design & optimized processing | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
+| **[Database Backup Utility](https://github.com/CrimsonKarma44/Database-Backup-Utility)** | Comprehensive backup & restore solution supporting multiple databases | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
+| **[Movie Reservation System](https://github.com/CrimsonKarma44/Movie-Reservation-System)** | Full-featured backend API for ticket booking and reservation management | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
+| **[Markdown Note APP](https://github.com/CrimsonKarma44/Markdown-Note-APP)** | Lightweight note-taking application with markdown support | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
+| **[Broadcast Server](https://github.com/CrimsonKarma44/Broadcast-Server)** | Real-time message broadcasting system with CLI client connection | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
+| **[Caching Proxy](https://github.com/CrimsonKarma44/caching-proxy)** | Lightweight & efficient caching proxy server implementation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
 
 ### **Full-Stack Projects**
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[AirBnB Clone Series](https://github.com/CrimsonKarma44?tab=repositories&q=AirBnB_clone&type=&language=&sort=)** | Progressive learning journey across 4 versions showcasing full-stack evolution | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full-Stack-brightgreen?style=flat) |
-| **[Eventify](https://github.com/CrimsonKarma44/Eventify)** | Web app for event activities including ticket acquisition and management | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) ![Web Dev](https://img.shields.io/badge/Web-Dev-blue?style=flat) |
-| **[Blogging Platform API](https://github.com/CrimsonKarma44/Blogging-Platform-API)** | RESTful API for personal blogging platform with full features | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-green?style=flat) |
+| **[AirBnB Clone Series](https://github.com/CrimsonKarma44?tab=repositories&q=AirBnB_clone&type=&language=&sort=)** | Progressive learning journey across 4 versions showcasing full-stack evolution | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
+| **[Eventify](https://github.com/CrimsonKarma44/Eventify)** | Web app for event activities including ticket acquisition and management | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) |
+| **[Blogging Platform API](https://github.com/CrimsonKarma44/Blogging-Platform-API)** | RESTful API for personal blogging platform with full features | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) |
 
 ### **AI & Innovation Projects**
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Autonomous Wheelchair](https://github.com/CrimsonKarma44/autonomous-wheelchair)** | AI-powered voice control system for wheelchair automation | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Voice%20Control-red?style=flat) ![IoT](https://img.shields.io/badge/IoT-Hardware-orange?style=flat) |
-| **[Accident Monitoring & Detection](https://github.com/CrimsonKarma44/Accident-Monitoring-and-Detection)** | Computer vision system for real-time accident detection and alerts | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-green?style=flat) ![Real%20Time](https://img.shields.io/badge/Real%20Time-Systems-blue?style=flat) |
-| **[Nutrition Assistant](https://github.com/CrimsonKarma44/nutrition_assistant)** | AI-powered nutrition guidance and meal planning tool | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-red?style=flat) |
-| **[Sol-Slayer](https://github.com/CrimsonKarma44/Sol-Slayer)** | Agentic Solana wallet with intelligent blockchain interactions | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-yellow?style=flat) |
+| **[Autonomous Wheelchair](https://github.com/CrimsonKarma44/autonomous-wheelchair)** | AI-powered voice control system for wheelchair automation | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) |
+| **[Accident Monitoring & Detection](https://github.com/CrimsonKarma44/Accident-Monitoring-and-Detection)** | Computer vision system for real-time accident detection and alerts | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python) |
+| **[Nutrition Assistant](https://github.com/CrimsonKarma44/nutrition_assistant)** | AI-powered nutrition guidance and meal planning tool | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) |
+| **[Sol-Slayer](https://github.com/CrimsonKarma44/Sol-Slayer)** | Agentic Solana wallet with intelligent blockchain interactions | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) |
 
 ---
 
@@ -161,7 +169,7 @@ I maintain comprehensive learning paths and open-source resources to help develo
 [![GitHub](https://img.shields.io/badge/GitHub-CrimsonKarma44-181717?style=for-the-badge&logo=github)](https://github.com/CrimsonKarma44)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:vincentprincewill44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princewill-okereke-341261145/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40handle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/DarkSummer44)
+[![Twitter](https://img.shields.io/badge/Twitter-%40DarkSummer44-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/DarkSummer44)
 
 </div>
 
@@ -174,6 +182,7 @@ I maintain comprehensive learning paths and open-source resources to help develo
 - 🌍 Contributing to impactful open-source projects
 - ☁️ Building scalable cloud-native applications
 - 🔗 Expanding blockchain and Web3 knowledge
+- 💡 Full-stack development with modern frameworks
 
 ---
 
@@ -199,6 +208,6 @@ I maintain comprehensive learning paths and open-source resources to help develo
 
 Always learning, always building. Let's create something amazing together! 🚀
 
-**[⬆ Back to Top](#-hi-im-crims-karmadarma44--full-stack--backend-engineer)**
+**[⬆ Back to Top](#-hi-im-will--full-stack--backend-engineer)**
 
 </div>
