@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Passionate **Backend & Systems Engineer** with expertise in **Go, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, distributed systems, and cloud-native applications. With experience across multiple tech stacks and a strong focus on systems design, architecture, and DevOps practices.
+Passionate **Backend & Systems Engineer** with expertise in **Go, Rust, Python, and JavaScript**. I specialize in building scalable backend systems, REST APIs, distributed systems, and cloud-native applications. With experience across multiple tech stacks and a strong focus on systems design, architecture, and DevOps practices.
 
 - 🎓 **ALX Software Engineer** | Completed comprehensive software engineering curriculum
 - 💼 Currently focusing on **Backend Development & Systems Design** 
@@ -64,7 +64,7 @@ Passionate **Backend & Systems Engineer** with expertise in **Go, Python, and Ja
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **[Stealth-Assist](https://github.com/CrimsonKarma44/stealth-assist)** | Browser plugin providing AI functionality while browsing webpages | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) | 🚀 Brand New |
+| **[Stealth-Assist](https://github.com/CrimsonKarma44/stealth-assist)** | Browser plugin providing AI functionality while browsing webpages | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) | 🚀 Brand New |
 | **[3mtt-software-6-frontend](https://github.com/CrimsonKarma44/3mtt-software-6-frontend)** | 3mtt NextGen software engineering group 6 workspace - collaborative project | ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | 🚀 Active |
 | **[3mtt-software-6-backend](https://github.com/CrimsonKarma44/3mtt-software-6-backend)** | Backend API for 3mtt software engineering group 6 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | 🚀 Active |
 | **[BinGo](https://github.com/CrimsonKarma44/BinGo)** | A WasteBin on Wheels - innovative waste management solution | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | ✨ Recent |
